@@ -25,13 +25,13 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    title = "Utilizing Goal-setting Nudges to Increase Flow and its Positive Outcomes at Work"
+    title = ""
     tag = ""
     category = ""
-    publication = "The 10th European Confrence on Positive Psychology (ECPP)"
-    date = "2020"
-    publication_type = "1"
-    author = "Weintraub, J., Cassell, D., & **DePatie, T.**"
+    publication = ""
+    date = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
   
 [design]
