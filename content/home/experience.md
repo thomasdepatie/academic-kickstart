@@ -31,4 +31,18 @@ date_format = "Jan 2006"
   * Report building and delivery
   * Presenting insights to clients 
   """
+  
+  [[experience]]
+  title = "Instructor"
+  company = "Hofstra University"
+  company_url = "https://www.hofstra.edu/undergraduate/psychology-degree.html"
+  location = "Hempstead, New York"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """
+  Courses taught:
+  
+  * PSY 001 **Introduction to Psychology** (Spring 2020)
+  * PSY 001 **Introduction to Psychology** (Fall 2019)
+  """
 +++
