@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Applied Organizational Psychology
     institution: Hofstra University
-    year: Expected 2022
+    year: 2022
   - course: M.S. in Management
     institution: Hough Graduate School of Business, University of Florida
     year: 2018
