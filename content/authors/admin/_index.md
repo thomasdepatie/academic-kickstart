@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am an industrial-organizational psychology researcher, instructor, consultant, and current Ph.D. student at Hofstra University. My research interests center around recruitment, focusing on applicant decision-making and person-organization fit. As a consultant, I have worked on projects for clients ranging from small cities to the Fortune 500 regarding job analysis, competency modeling, program evaluation, 360-feedback, and organizational surveys.
+I am an industrial-organizational psychology researcher, instructor, consultant, and current Ph.D. student at Hofstra University. My research interests center around recruitment, focusing on applicant decision-making and person-organization fit. As a consultant, I have worked on projects for clients ranging from small cities to the *Fortune 500* regarding job analysis, competency modeling, program evaluation, 360-feedback, and organizational surveys.
