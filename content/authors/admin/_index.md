@@ -15,7 +15,7 @@ role: Ph.D. Student
 # Organizations/Affiliations
 organizations:
 - name: Department of Psychology, Hofstra University
-  url: "https://www.hofstra.edu/academics/colleges/hclas/psy/phd/organizational-psychology-phd.html"
+  url: "https://www.hofstra.edu/academics/colleges/hclas/psy/phd/phdpsy_about.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
