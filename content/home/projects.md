@@ -8,7 +8,6 @@ weight = 65  # Order that this section will appear.
 title = "Teaching"
 subtitle = ""
 
-## Recent Teaching Experience
 
 [content]
   # Page type to display. E.g. project.
