@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Thomas Paul DePatie
+name: Thomas P. DePatie
 
 # Username (this should match the folder name)
 authors:
