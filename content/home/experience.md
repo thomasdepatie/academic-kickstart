@@ -31,15 +31,6 @@ date_format = "Jan 2006"
   * Report building and delivery
   * Presenting insights to clients 
   """
-[[experience]]
-  title = "Consulting Research Intern"
-  company = "Talent Metrics, LLC"
-  company_url = "http://www.talentmetrics.io/"
-  location = "New York, New York"
-  date_start = "2019-07-01"
-  date_end = "2020-06-01"
-  description = """
-  """
   
   [[experience]]
   title = "Instructor"
