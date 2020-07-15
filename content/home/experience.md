@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Talent Metrics, LLC"
   company_url = "http://www.talentmetrics.io/"
   location = "New York, New York"
-  date_start = "2020-07-01"
+  date_start = "2019-07-01"
   date_end = ""
   description = """
   Responsibilities include:
