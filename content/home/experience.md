@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Consulting Research Intern"
+  title = "Associate Consultant"
   company = "Talent Metrics, LLC"
   company_url = "http://www.talentmetrics.io/"
   location = "New York, New York"
-  date_start = "2019-07-01"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -31,6 +31,15 @@ date_format = "Jan 2006"
   * Report building and delivery
   * Presenting insights to clients 
   """
+[[experience]]
+  title = "Consulting Research Intern"
+  company = "Talent Metrics, LLC"
+  company_url = "http://www.talentmetrics.io/"
+  location = "New York, New York"
+  date_start = "2019-07-01"
+  date_end = "2020-06-01"
+  description = """
+  """
   
   [[experience]]
   title = "Instructor"
@@ -38,7 +47,7 @@ date_format = "Jan 2006"
   company_url = "https://www.hofstra.edu/undergraduate/psychology-degree.html"
   location = "Hempstead, New York"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-05-01"
   description = """
   Courses taught:
   
