@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Current Experience"
 subtitle = ""
 
 # Date format for experience
@@ -30,20 +30,6 @@ date_format = "Jan 2006"
   * Statistical analyses and visualization in R, SPSS
   * Report building and delivery
   * Presenting insights to clients 
-  """
-  
-  [[experience]]
-  title = "Instructor"
-  company = "Hofstra University"
-  company_url = "https://www.hofstra.edu/undergraduate/psychology-degree.html"
-  location = "Hempstead, New York"
-  date_start = "2019-09-01"
-  date_end = "2020-05-01"
-  description = """
-  Courses taught:
-  
-  * PSY 001 **Introduction to Psychology** (Spring 2020)
-  * PSY 001 **Introduction to Psychology** (Fall 2019)
   """
 
   [[experience]]
