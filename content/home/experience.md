@@ -45,4 +45,17 @@ date_format = "Jan 2006"
   * PSY 001 **Introduction to Psychology** (Spring 2020)
   * PSY 001 **Introduction to Psychology** (Fall 2019)
   """
+
+  [[experience]]
+  title = "Adjunct Assistant Professor"
+  company = "Farmingdale State College"
+  company_url = "https://www.farmingdale.edu/curriculum/bs-psy.shtml"
+  location = "Farmingdale, New York"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """
+  Courses taught:
+  
+  * PSY 331 **Industrial / Organizational Psychology** (Fall 2020)
+  """
 +++
